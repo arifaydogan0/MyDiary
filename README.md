@@ -30,5 +30,5 @@ https://user-images.githubusercontent.com/96810885/172092658-c161c3d3-1a6e-400f-
 ---
 
 ![avatar](https://user-images.githubusercontent.com/96810885/172093759-ba90b284-6e4b-4742-839c-c440d4d6b000.gif)
-![imgS1](https://user-images.githubusercontent.com/96810885/172093765-b73f929c-5de7-48aa-80a2-e3fa758203ab.gif)
+![222](https://user-images.githubusercontent.com/96810885/172096790-70fceab0-07bf-4298-9816-1298f3044af3.gif)
 ![avatar3](https://user-images.githubusercontent.com/96810885/172093877-4dcdb80d-5b2c-4ed3-b657-f38f2b13e707.gif)
