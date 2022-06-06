@@ -5,6 +5,7 @@ Uzun süredir tahta pano kullanıyorum ve hatırlatma, haftalık program vs gibi
 Ayrıca biraz baş belası biraz da tripli bir asistanınız da var, durup dururken size salça olabilir, uzun süreler görev girmezseniz uyarabilir, sizi severse belki iltifat bile edebilir :) Susturma seçeneği var ama o zaman daha çok konuşuyor benden söylemesi :)
 
 Kendi kendime eğlendiğim ve ihtiyacıma yönelik tasarladığım bir proje oldu, şimdilik monitör seçimi ve renk seçimi gibi basit ayarlara sahip, ihityaca yönelik geliştirmeler gelecektir,saygılarımla.
+<br><br><br>
 
 ![ss2](https://user-images.githubusercontent.com/96810885/172093693-3a2b7a48-47c2-403b-84ff-230d0cf589fd.png)
 
