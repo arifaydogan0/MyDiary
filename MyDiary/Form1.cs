@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Windows.Threading;
+using Squirrel;
 
 namespace MyDiary
 {
@@ -62,6 +65,10 @@ namespace MyDiary
         }
 
 
+        public void AddVersionNumber()
+        {
+            
+        }
         public Form1()
         {
             CheckForIllegalCrossThreadCalls = false;
