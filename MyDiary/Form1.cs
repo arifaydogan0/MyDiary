@@ -169,7 +169,7 @@ namespace MyDiary
                         foreach (Control item in ccc.Controls)
                         {
                             item.Text = "";
-                            item.Visible = false;
+                            //item.Visible = false;
                         }
                     }
                     for (int i = 0; i < bellek[column].Count; i++)

@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel32 = new System.Windows.Forms.Panel();
@@ -1110,7 +1109,6 @@
             // 
             this.pictureBoxToday.BackColor = System.Drawing.Color.MistyRose;
             this.pictureBoxToday.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBoxToday.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxToday.Image")));
             this.pictureBoxToday.InitialImage = null;
             this.pictureBoxToday.Location = new System.Drawing.Point(3, 3);
             this.pictureBoxToday.Name = "pictureBoxToday";
