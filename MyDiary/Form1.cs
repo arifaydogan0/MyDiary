@@ -5,13 +5,12 @@ using System.Drawing;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Windows.Threading;
-using Squirrel;
 
 namespace MyDiary
 {
     public partial class Form1 : Form
     {
+        static int ilkKosegen = 2200;
         Label activeLabel;
         static Random rnd = new Random();
         static Image add = new Bitmap(Application.StartupPath + @"\images\add.png");
@@ -27,8 +26,7 @@ namespace MyDiary
         public static List<string> renkler = Database.GetColors();
         static List<Mission>[] cache = Database.GetAll(DateTime.Now.AddDays(-1)); //anlık tutulan yedi günlük görev listesi
         static int cacheChangeNumb = 0;
-        static Screen[] screens = Screen.AllScreens;
-        static Screen screen = screens[0];
+        static readonly Screen[] screens = Screen.AllScreens;
         static List<Mission>[] bellek
         {
             get { return cache; }
@@ -67,7 +65,7 @@ namespace MyDiary
 
         public void AddVersionNumber()
         {
-            
+
         }
         public Form1()
         {
@@ -228,9 +226,7 @@ namespace MyDiary
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             int indeks = comboBox1.SelectedIndex;
-            SetCompanents(screen, screens[indeks]);
-            SetAppLocationAndSize(screens[indeks]);
-            screen = screens[indeks];
+            SetCompanents(SetAppLocationAndSize(screens[indeks]));
             textBox.Font = new Font(textBox.Font.FontFamily, label1.Font.Size);
             int x = (int)(Math.Sqrt((labelDate2.Size.Width * labelDate2.Size.Width) + (labelDate2.Size.Height * labelDate2.Size.Height)) / 6 / Math.Sqrt(2));
             pictureBoxToday.Size = new Size(x, x);
@@ -310,17 +306,24 @@ namespace MyDiary
             }
 
         }  //Bellek değişkeni dataları alıyor, bellekten tabloya yükleme burada yapılıyor.
-        void SetAppLocationAndSize(Screen screen)
+        int SetAppLocationAndSize(Screen screen)
         {
             Size appSize = new Size(screen.Bounds.Size.Width * 3 / 4, screen.Bounds.Height * 3 / 4);
             Point middlePoint = new Point(screen.Bounds.Location.X + screen.Bounds.Width / 2, screen.Bounds.Location.Y + screen.Bounds.Height / 2);
             Rectangle appRec = new Rectangle(new Point(middlePoint.X - appSize.Width / 2, middlePoint.Y - appSize.Height / 2), appSize);
             this.Location = appRec.Location;
             this.Size = appRec.Size;
-        }  //Ekrana göre Size vs Boyut ayarları ve ekranı yerleştirme işlemi
-        void SetCompanents(Screen src1, Screen src2)
+            double x = this.Size.Width;
+            double y = this.Size.Height;
+            int kosegen = (int)Math.Sqrt((x * x) + (y * y));
+            return kosegen;
+        }  //Ekrana göre Size vs Boyut ayarları ve ekranı yerleştirme işlemi, yerlestırılen formun kösegenını döner.
+        void SetCompanents(int yeniKosegen)
         {
-            float change = (float)src2.Bounds.Width / (float)src1.Bounds.Width;
+            if (yeniKosegen == ilkKosegen)
+                return;
+
+            float change = (float)yeniKosegen / (float)ilkKosegen;
 
             for (int i = 0; i < 7; i++)
             {
@@ -339,7 +342,9 @@ namespace MyDiary
                     }
                 }
             }//tablo alt kısım yeniden boyutlandırma
-        }  //Label yazı vs Boyutlandırmalar
+
+            ilkKosegen = yeniKosegen;
+        } //Label yazı vs Boyutlandırmalar
         void SetComboBox()
         {
             foreach (Screen item in screens)

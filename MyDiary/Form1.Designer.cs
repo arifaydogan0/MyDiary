@@ -243,7 +243,7 @@
             // label28
             // 
             this.label28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label28.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label28.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label28.ForeColor = System.Drawing.Color.Black;
             this.label28.Location = new System.Drawing.Point(0, 0);
             this.label28.Name = "label28";
@@ -270,7 +270,7 @@
             // label27
             // 
             this.label27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label27.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label27.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label27.ForeColor = System.Drawing.Color.Black;
             this.label27.Location = new System.Drawing.Point(0, 0);
             this.label27.Name = "label27";
@@ -297,7 +297,7 @@
             // label26
             // 
             this.label26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label26.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label26.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label26.ForeColor = System.Drawing.Color.Black;
             this.label26.Location = new System.Drawing.Point(0, 0);
             this.label26.Name = "label26";
@@ -324,7 +324,7 @@
             // label25
             // 
             this.label25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label25.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label25.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label25.ForeColor = System.Drawing.Color.Black;
             this.label25.Location = new System.Drawing.Point(0, 0);
             this.label25.Name = "label25";
@@ -351,7 +351,7 @@
             // label24
             // 
             this.label24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label24.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label24.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label24.ForeColor = System.Drawing.Color.Black;
             this.label24.Location = new System.Drawing.Point(0, 0);
             this.label24.Name = "label24";
@@ -378,7 +378,7 @@
             // label23
             // 
             this.label23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label23.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label23.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label23.ForeColor = System.Drawing.Color.Black;
             this.label23.Location = new System.Drawing.Point(0, 0);
             this.label23.Name = "label23";
@@ -405,7 +405,7 @@
             // label22
             // 
             this.label22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label22.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label22.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label22.ForeColor = System.Drawing.Color.Black;
             this.label22.Location = new System.Drawing.Point(0, 0);
             this.label22.Name = "label22";
@@ -432,7 +432,7 @@
             // label21
             // 
             this.label21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label21.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label21.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label21.ForeColor = System.Drawing.Color.Black;
             this.label21.Location = new System.Drawing.Point(0, 0);
             this.label21.Name = "label21";
@@ -459,7 +459,7 @@
             // label20
             // 
             this.label20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label20.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label20.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label20.ForeColor = System.Drawing.Color.Black;
             this.label20.Location = new System.Drawing.Point(0, 0);
             this.label20.Name = "label20";
@@ -486,7 +486,7 @@
             // label19
             // 
             this.label19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label19.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label19.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label19.ForeColor = System.Drawing.Color.Black;
             this.label19.Location = new System.Drawing.Point(0, 0);
             this.label19.Name = "label19";
@@ -513,7 +513,7 @@
             // label18
             // 
             this.label18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label18.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label18.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label18.ForeColor = System.Drawing.Color.Black;
             this.label18.Location = new System.Drawing.Point(0, 0);
             this.label18.Name = "label18";
@@ -540,7 +540,7 @@
             // label17
             // 
             this.label17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label17.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label17.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label17.ForeColor = System.Drawing.Color.Black;
             this.label17.Location = new System.Drawing.Point(0, 0);
             this.label17.Name = "label17";
@@ -567,7 +567,7 @@
             // label16
             // 
             this.label16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label16.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label16.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label16.ForeColor = System.Drawing.Color.Black;
             this.label16.Location = new System.Drawing.Point(0, 0);
             this.label16.Name = "label16";
@@ -594,7 +594,7 @@
             // label15
             // 
             this.label15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label15.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label15.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label15.ForeColor = System.Drawing.Color.Black;
             this.label15.Location = new System.Drawing.Point(0, 0);
             this.label15.Name = "label15";
@@ -621,7 +621,7 @@
             // label14
             // 
             this.label14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label14.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label14.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label14.ForeColor = System.Drawing.Color.Black;
             this.label14.Location = new System.Drawing.Point(0, 0);
             this.label14.Name = "label14";
@@ -648,7 +648,7 @@
             // label13
             // 
             this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label13.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label13.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label13.ForeColor = System.Drawing.Color.Black;
             this.label13.Location = new System.Drawing.Point(0, 0);
             this.label13.Name = "label13";
@@ -675,7 +675,7 @@
             // label12
             // 
             this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label12.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label12.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label12.ForeColor = System.Drawing.Color.Black;
             this.label12.Location = new System.Drawing.Point(0, 0);
             this.label12.Name = "label12";
@@ -702,7 +702,7 @@
             // label11
             // 
             this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label11.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label11.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label11.ForeColor = System.Drawing.Color.Black;
             this.label11.Location = new System.Drawing.Point(0, 0);
             this.label11.Name = "label11";
@@ -729,7 +729,7 @@
             // label10
             // 
             this.label10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label10.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label10.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label10.ForeColor = System.Drawing.Color.Black;
             this.label10.Location = new System.Drawing.Point(0, 0);
             this.label10.Name = "label10";
@@ -756,7 +756,7 @@
             // label9
             // 
             this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label9.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label9.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label9.ForeColor = System.Drawing.Color.Black;
             this.label9.Location = new System.Drawing.Point(0, 0);
             this.label9.Name = "label9";
@@ -783,7 +783,7 @@
             // label8
             // 
             this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label8.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label8.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label8.ForeColor = System.Drawing.Color.Black;
             this.label8.Location = new System.Drawing.Point(0, 0);
             this.label8.Name = "label8";
@@ -810,7 +810,7 @@
             // label7
             // 
             this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label7.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label7.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Location = new System.Drawing.Point(0, 0);
             this.label7.Name = "label7";
@@ -837,7 +837,7 @@
             // label6
             // 
             this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label6.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label6.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Location = new System.Drawing.Point(0, 0);
             this.label6.Name = "label6";
@@ -864,7 +864,7 @@
             // label5
             // 
             this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label5.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label5.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.ForeColor = System.Drawing.Color.Black;
             this.label5.Location = new System.Drawing.Point(0, 0);
             this.label5.Name = "label5";
@@ -891,7 +891,7 @@
             // label4
             // 
             this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label4.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label4.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.ForeColor = System.Drawing.Color.Black;
             this.label4.Location = new System.Drawing.Point(0, 0);
             this.label4.Name = "label4";
@@ -918,7 +918,7 @@
             // label3
             // 
             this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label3.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label3.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Location = new System.Drawing.Point(0, 0);
             this.label3.Name = "label3";
@@ -945,7 +945,7 @@
             // label2
             // 
             this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label2.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(0, 0);
             this.label2.Name = "label2";
@@ -973,7 +973,7 @@
             // label1
             // 
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label1.Font = new System.Drawing.Font("Segoe Print", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Font = new System.Drawing.Font("Segoe Print", 22F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
@@ -998,7 +998,7 @@
             // 
             this.labelDate7.BackColor = System.Drawing.Color.AliceBlue;
             this.labelDate7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate7.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate7.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate7.Location = new System.Drawing.Point(0, 0);
             this.labelDate7.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate7.Name = "labelDate7";
@@ -1020,7 +1020,7 @@
             // 
             this.labelDate6.BackColor = System.Drawing.Color.AliceBlue;
             this.labelDate6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate6.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate6.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate6.Location = new System.Drawing.Point(0, 0);
             this.labelDate6.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate6.Name = "labelDate6";
@@ -1042,7 +1042,7 @@
             // 
             this.labelDate5.BackColor = System.Drawing.Color.AliceBlue;
             this.labelDate5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate5.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate5.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate5.Location = new System.Drawing.Point(0, 0);
             this.labelDate5.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate5.Name = "labelDate5";
@@ -1064,7 +1064,7 @@
             // 
             this.labelDate4.BackColor = System.Drawing.Color.AliceBlue;
             this.labelDate4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate4.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate4.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate4.Location = new System.Drawing.Point(0, 0);
             this.labelDate4.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate4.Name = "labelDate4";
@@ -1086,7 +1086,7 @@
             // 
             this.labelDate3.BackColor = System.Drawing.Color.AliceBlue;
             this.labelDate3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate3.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate3.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate3.Location = new System.Drawing.Point(0, 0);
             this.labelDate3.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate3.Name = "labelDate3";
@@ -1121,7 +1121,7 @@
             // 
             this.labelDate2.BackColor = System.Drawing.Color.MistyRose;
             this.labelDate2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate2.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate2.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate2.Location = new System.Drawing.Point(0, 0);
             this.labelDate2.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate2.Name = "labelDate2";
@@ -1143,7 +1143,7 @@
             // 
             this.labelDate1.BackColor = System.Drawing.Color.AliceBlue;
             this.labelDate1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelDate1.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelDate1.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labelDate1.Location = new System.Drawing.Point(0, 0);
             this.labelDate1.Margin = new System.Windows.Forms.Padding(0);
             this.labelDate1.Name = "labelDate1";
@@ -1295,7 +1295,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.ShowInTaskbar = false;
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
