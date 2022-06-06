@@ -1,12 +1,15 @@
 # MyDiary
 
 ### Eğer benim gibi birden fazla monitörle çalışıyor ve uzun saatler bilgisayar başındaysanız, artık dijital panoya geçme vaktiniz gelmiştir :)
-Dün, hatırlatmalarımı notlarımı vs not almak için masaüstüne sabitlenen bu uygulamayı yazdım, ayrıca biraz tripli biraz da baş belası bir asistan ile birlikte.. 
+Uzun süredir tahta pano kullanıyorum ve hatırlatma, haftalık program vs gibi işler için geleneksel yöntemlerle heryeri kağıtlara boğuyordum. Artık duvarları rahat bırakıyor ve daha dijital bir yönteme geçiyorum. Masaüstüne sabitlenen bir görev listesi ile uzun-kısa vadeli programlarınızı hızlıca yazabilirsiniz..
+Ayrıca biraz baş belası biraz da tripli bir asistanınız da var, durup dururken size salça olabilir, uzun süreler görev girmezseniz uyarabilir, sizi severse belki iltifat bile edebilir :) Susturma seçeneği var ama o zaman daha çok konuşuyor benden söylemesi :)
 
+Kendi kendime eğlendiğim ve ihtiyacıma yönelik tasarladığım bir proje oldu, saygılarımla.
 
 ![ss2](https://user-images.githubusercontent.com/96810885/172093693-3a2b7a48-47c2-403b-84ff-230d0cf589fd.png)
 
 
+<br><br>
 ---
 
 https://user-images.githubusercontent.com/96810885/172092485-3e0b2fbc-667f-4a89-9a2d-7694c7c28af9.mp4
