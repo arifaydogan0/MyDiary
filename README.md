@@ -1,9 +1,11 @@
 # MyDiary
 
-##Eğer benim gibi birden fazla monitörle çalışıyor ve uzun saatler bilgisayar başındaysanız, artık dijital panoya geçme vaktiniz gelmiştir :)
+### Eğer benim gibi birden fazla monitörle çalışıyor ve uzun saatler bilgisayar başındaysanız, artık dijital panoya geçme vaktiniz gelmiştir :)
 Dün, hatırlatmalarımı notlarımı vs not almak için masaüstüne sabitlenen bu uygulamayı yazdım, ayrıca biraz tripli biraz da baş belası bir asistan ile birlikte.. 
 
-![avatar](https://user-images.githubusercontent.com/96810885/172075153-e4407ea7-2dad-4698-be15-e8a7950d3a3b.gif) <br><br>
+
+![ss2](https://user-images.githubusercontent.com/96810885/172093693-3a2b7a48-47c2-403b-84ff-230d0cf589fd.png)
+
 
 ---
 
@@ -22,4 +24,8 @@ https://user-images.githubusercontent.com/96810885/172092577-e40b6375-b58f-4a80-
 https://user-images.githubusercontent.com/96810885/172092658-c161c3d3-1a6e-400f-9a8a-93618c2d570d.mp4
 
 
+---
 
+![avatar](https://user-images.githubusercontent.com/96810885/172093759-ba90b284-6e4b-4742-839c-c440d4d6b000.gif)
+![imgS1](https://user-images.githubusercontent.com/96810885/172093765-b73f929c-5de7-48aa-80a2-e3fa758203ab.gif)
+![avatar3](https://user-images.githubusercontent.com/96810885/172093877-4dcdb80d-5b2c-4ed3-b657-f38f2b13e707.gif)
