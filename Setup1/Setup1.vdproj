@@ -69,12 +69,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1781872EDC44417B83168F479F66A572"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1CCD50C855B94237BCD01F0FE14ECE94"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -227,12 +221,6 @@
         {
         "MsmKey" = "8:_771BD9435D6B87F5E949AB7D096D8025"
         "OwnerKey" = "8:_55115CD9E8DF4196A8DDA74762D31ED1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7E4DC4A99CDD4548B1F55481A1A49C61"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -568,6 +556,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -777,26 +773,6 @@
             "TargetName" = "8:imgY.png"
             "Tag" = "8:"
             "Folder" = "8:_03E39E6716F642129BA7C8B8B62EB355"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1781872EDC44417B83168F479F66A572"
-            {
-            "SourcePath" = "8:Debug\\Setup1.msi"
-            "TargetName" = "8:Setup1.msi"
-            "Tag" = "8:"
-            "Folder" = "8:_4218CE782E11495384D28EE183AA4AE6"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1390,26 +1366,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7E4DC4A99CDD4548B1F55481A1A49C61"
-            {
-            "SourcePath" = "8:Debug\\setup.exe"
-            "TargetName" = "8:setup.exe"
-            "Tag" = "8:"
-            "Folder" = "8:_4218CE782E11495384D28EE183AA4AE6"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_878CD7DE9C3F429CB4DA9DCEE3514951"
