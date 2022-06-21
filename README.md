@@ -15,19 +15,7 @@ Kendi kendime eğlendiğim ve ihtiyacıma yönelik tasarladığım bir proje old
 <br><br>
 
 
-https://user-images.githubusercontent.com/96810885/172097308-704b9f8c-0e84-499e-8061-383b4cf19ebd.mp4
-
-
-
 https://user-images.githubusercontent.com/96810885/172092517-949b6add-6447-4502-a9c3-86a14bc82444.mp4
-
-
-
-https://user-images.githubusercontent.com/96810885/172092577-e40b6375-b58f-4a80-a0bb-fe00ac415fb8.mp4
-
-
-
-https://user-images.githubusercontent.com/96810885/172092658-c161c3d3-1a6e-400f-9a8a-93618c2d570d.mp4
 
 <br><br>
 ---
