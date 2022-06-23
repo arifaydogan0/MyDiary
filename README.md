@@ -1,6 +1,6 @@
 # MyDiary
 
-### Tahta panolar bizler için mazi de kaldı, pc başında uzun saatler geçirenler için artık dijital panoya geçme zamanı :)
+### Tahta panolar bizler için mazide kaldı, pc başında uzun saatler geçirenler için artık dijital panoya geçme zamanı :)
 Masaüstüne sabitlenmiş bir pano uygulaması ile kısa-uzun vadeli hatırlatmalarınızı hızlıca not alın ve her daim önünüzde dursun.
 
 <br><br><br>
