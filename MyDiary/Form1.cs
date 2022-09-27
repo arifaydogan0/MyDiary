@@ -71,9 +71,6 @@ namespace MyDiary
         {
             CheckForIllegalCrossThreadCalls = false;
             InitializeComponent();
-
-            this.TransparencyKey = Color.AntiqueWhite;
-            this.BackColor = Color.AntiqueWhite;
         }
         private void Form1_Load(object sender, EventArgs e)
         {
