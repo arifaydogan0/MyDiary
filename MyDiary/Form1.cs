@@ -64,9 +64,7 @@ namespace MyDiary
 
 
         public void AddVersionNumber()
-        {
-
-        }
+        { }
         public Form1()
         {
             CheckForIllegalCrossThreadCalls = false;
@@ -78,6 +76,8 @@ namespace MyDiary
             SetComboBox();
 
             textBox.Font = new Font(label1.Font, FontStyle.Regular);
+            AllowTransparency = true;
+            TransparencyKey = Color.Black;
         }
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
